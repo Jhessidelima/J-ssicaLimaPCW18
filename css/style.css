@@ -1,11 +1,11 @@
 body{
-    font-family: roboto;
+    font-family: cursive;
     margin: 0;
     padding: 0;
     border: 0;
 }
 .divisorbase{
-    background-color: bisque;
+    background-color: rgb(77, 146, 146);
     width: 720px;
     margin: 80px auto 0px auto;
     padding: 25px;
